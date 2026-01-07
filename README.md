@@ -28,7 +28,8 @@
 
 •**Retail Sales**: 208.19K •**Overall Warehouse Sales**: 822.93K
 
-**Key Visual**
+**Key Visual**  
+
  **Bar Chart(Bar Plot)**: Visualizes the Retail Sales Item wise. **Line Chart(Line Plot)**: Visualizes the Retail Sales Month wise. **Histogram(Hist Plot)**: Visualizes the Distribution of Items.
 
 **Insights and Conclusions**  

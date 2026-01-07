@@ -8,7 +8,8 @@
 
 • 📂Power Query– Data transformation platform for cleaning, reshaping and preparing the data.
 
-• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures/Columns.   
+• 🧠 DAX (Data Analysis Expressions) – Used for calculated measures/Columns.    
+
 
 
 • 🐍 Python – Core programming language used for data processing and visualization within Power BI.

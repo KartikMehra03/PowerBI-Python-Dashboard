@@ -33,4 +33,4 @@
 
 **Insights and Conclusions**  
 The dashboard shows that warehouse sales drive most of the revenue, outperforming retail sales. Within retail, Beer and Liquor lead, while some items perform poorly, indicating opportunities for optimization.  
-Overall, the analysis highlights the need to boost retail performance.
+Overall, the analysis highlights they need to boost retail performance.
